@@ -1,5 +1,0 @@
-javascripts:
-  files:
-    - lib/Dog.js
-  specs:
-    - spec/Dog.spec.js
